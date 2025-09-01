@@ -1,0 +1,12 @@
+###### Name = Somi Naidu
+
+###### course = BSc computer science
+
+
+
+* #### one thing i learned about GitHub:
+
+&nbsp;   I learn how to create repositories and upload files into it. And also how to edit the uploaded file along with sharing our progress to others via GitHub link
+
+
+
